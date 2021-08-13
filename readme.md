@@ -1,5 +1,5 @@
 # My Blog
 
-https://tmr.js.org
+https://blog.xlab.app
 
 Comment: https://github.com/ttttmr/blog/issues
